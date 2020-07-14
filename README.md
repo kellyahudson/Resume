@@ -63,12 +63,12 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 
 **Education**
 ---------
-2018:
-:**Tacoma Community College** | Un-loop.org | Tacoma, WA	          
-  :*Professional / Technical Web Development Certificate | Honors*
-1992
-:**Western Illinois University** | Macomb, IL	                      
-  :*Bachelor of Arts | Dean’s List*
+<p>2018</p>
+<p>**Tacoma Community College** | Un-loop.org | Tacoma, WA</p>	          
+ <p>*Professional / Technical Web Development Certificate | Honors*</p>
+<p>1992</p>
+<p>**Western Illinois University** | Macomb, IL</p>	                      
+  <p>*Bachelor of Arts | Dean’s List*</p>
 
 
 **Professional Certifications**
