@@ -63,22 +63,12 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 
 **Education**
 ---------
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+**Tacoma Community College** | Un-loop.org | Tacoma, WA	         2018
+  *Professional / Technical Web Development Certificate | Honors*
 
-
-2018
-:    **Tacoma Community College** | Un-loop.org | Tacoma, WA	     
-          
-      *Professional / Technical Web Development Certificate | Honors*
-
-1992
-:         **Western Illinois University** | Macomb, IL	      
-     
-           *Bachelor of Arts | Dean’s List*
+**Western Illinois University** | Macomb, IL	                     1992
+  *Bachelor of Arts | Dean’s List*
 
 
 **Professional Certifications**
