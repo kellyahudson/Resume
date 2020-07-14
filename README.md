@@ -23,14 +23,14 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 **Professional Experience**
 --------------------
 
-**Project Manager, Technical Facilitator and Tutor** | VARIOUS ORGANIZATIONS 	Seattle, WA: 2014 - 2020
+**Project Manager, Technical Facilitator and Tutor** | VARIOUS ORGANIZATIONS | Seattle, WA: 2014 - 2020
 -	Volunteered to teach college- and high-school-level computer basics and advanced business technology, math, accounting, and other courses to various audiences; assisted 100+ women in receiving course certificates
 -	Partnered with Gig Harbor Rotary Club to facilitate a basic job and life skills course for women at risk designed to reduce recidivism and increase hire-ability rate by 75%
 -	Maintained communications between classes with Gig Harbor Rotary Club on updated academic, job requirements, and cost of living, ensuring course material aligned to current market 
 -	Performed a wide range of administrative duties including class and lab preparation, schedule administration, and participant record maintenance (evaluations and attendance)
 -	Analyzed students’ needs based on testing and monitor progress; ensured effective strategies are used to help students stay positive around learning and to foster student growth
 
-**Business Continuity & Business Development Specialist** | INDEPENDENT CONSULTANT 	Bellevue, WA: 2012 - 2013
+**Business Continuity & Business Development Specialist** | INDEPENDENT CONSULTANT | Bellevue, WA: 2012 - 2013
 -	Worked on a self-employed basis to drive new business development for Business Continuity and Disaster Recovery (BCDR), and Program Management services—supporting both small firms and enterprise companies.  Client list included Microsoft, WithinCompliance, and several smaller/individual companies
 -	Grew business within assigned client list by 50% within first 6 months and expanded into new Industry verticals outside of the technology sector including: health, employment/hiring services, and benefit companies
 -	Recruited, interviewed, and selected employees to fill vacant positions and planned/conducted new employee orientations to explain company guidelines and assist with rapid ramp-up 
@@ -38,14 +38,14 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 -	Partnered with IT/Technology teams and other key business leaders to ensure adequate resiliency and recovery for key business processes; performed quarterly audit, updated business impact analyses and business continuity plans
 -	Trained organizations in BCDR best practices, provided ghostwriting services for technology executives related to BCDR and blogged for Disaster Recovery Institute
 
-**Business Continuity Manager** | MICROSOFT CORPORATION 	Redmond, WA: 2010 - 2012
+**Business Continuity Manager** | MICROSOFT CORPORATION | Redmond, WA: 2010 - 2012
 -	Identified areas of risk and performed cost impact analysis documenting upwards of $20 mill loss in revenue with service outage between 0-72 hours
 -	Directed large teams of 20+ across multiple disciplines: program management, architecture, development, engineering, support, and management 
 -	Scaled and maintained a BCM program that aligned to industry standards, complied with all applicable regulatory requirements, supported the company's priorities, and identified areas of high risk
 -	Owned governance and compliance of the business continuity framework, such as completing risk assessments to identify gaps, and codifying related policies, standards and procedures, including emergency response and crisis communication plans
 -	Executed all BCDR and project life cycle activities: i.e. business impact assessments, documentation, communications, financial tracking, reporting, change management and post-mortem reviews
 
-**Product Release Manager** | MICROSOFT CORPORATION 	Redmond, WA: 2008 - 2010
+**Product Release Manager** | MICROSOFT CORPORATION | Redmond, WA: 2008 - 2010
 -	Performed all project management and release management activities for Xbox Operations: data gathering, scheduling, work planning, communications, issue resolution, financial management, reporting, SCRUM, implementation, change management, and post-mortem reviews
 -	Created and managed boards, sprint planning, daily scrum, sprint review, sprint retrospective and metrics/ burndown charts and velocity
 -	Scheduled operational testing for new products such as Xbox, Zune, Primetime, Marketplace and other Microsoft entertainment products and games; identified areas for improvement to shorten the test cycle and increase quality in internal lab testing enabling on-time ship of products
@@ -63,12 +63,12 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 
 **Education**
 ---------
-<p>2018</p>
-<p>**Tacoma Community College** | Un-loop.org | Tacoma, WA</p>	          
- <p>*Professional / Technical Web Development Certificate | Honors*</p>
-<p>1992</p>
-<p>**Western Illinois University** | Macomb, IL</p>	                      
-  <p>*Bachelor of Arts | Dean’s List*</p>
+
+**Tacoma Community College** | Un-loop.org | Tacoma, WA 	| 2018          
+*<p>Professional / Technical Web Development Certificate | Honors</p>* 
+
+**Western Illinois University** | Macomb, IL | 1992                     
+ *<p>Bachelor of Arts | Dean’s List</p>*
 
 
 **Professional Certifications**
