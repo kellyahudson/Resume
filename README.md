@@ -25,7 +25,7 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 
 **Project Manager, Technical Facilitator and Tutor** | VARIOUS ORGANIZATIONS | Seattle, WA: 2014 - 2020
 -	Volunteered to teach college- and high-school-level computer basics and advanced business technology, math, accounting, and other courses to various audiences; assisted 100+ women in receiving course certificates
--	Partnered with Gig Harbor Rotary Club to facilitate a basic job and life skills course for women at risk designed to reduce recidivism and increase hire-ability rate by 75%
+-	Partnered with Gig Harbor Rotary Club to facilitate a basic job and life skills course for women at risk designed to reduce recidivism and increase hireability rate by 75%
 -	Maintained communications between classes with Gig Harbor Rotary Club on updated academic, job requirements, and cost of living, ensuring course material aligned to current market 
 -	Performed a wide range of administrative duties including class and lab preparation, schedule administration, and participant record maintenance (evaluations and attendance)
 -	Analyzed students’ needs based on testing and monitor progress; ensured effective strategies are used to help students stay positive around learning and to foster student growth
@@ -74,7 +74,7 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 **Professional Certifications**
 ---------
 
-- **CBCP - Certified Business Continuity Planer**  
+- **CBCP - Certified Business Continuity Planner**  
 
 - **PMP - Project Mangement Professional**  
 
