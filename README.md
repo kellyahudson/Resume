@@ -22,6 +22,15 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 
 **Professional Experience**
 --------------------
+**Engagement Manager**| LAUNCH CONSULTING GROUP	Bellevue, WA: 2020 - Present
+-	Own delivery success for an $8 million BoB, managing 80+ employees within Microsoft FD&E, successfully delivering work-group effectiveness and positive and inclusive cultures
+-	Drive process and technical solutions within a given service area; Identify, document and implement best practices and associated business processes
+-	Coordinate with operations and management to deliver accurate and timely resource identification, allocation, on-boarding, utilization and forecasting
+-	Continuously update operational/process documentation throughout the life cycle of each assigned project
+-	Design end-to-end change management plans for digital transformation projects and initiatives; drive adoption and implementation Assesses and manages affected stakeholder groups using Prosci
+-	Provide growth-focused coaching and mentoring to engagement team members
+-	Manage Service Level Agreements through Azure DevOps & ServiceNow dashboards
+
 
 **Project Manager, Technical Facilitator and Tutor** | VARIOUS ORGANIZATIONS | Seattle, WA: 2014 - 2020
 -	Volunteered to teach college- and high-school-level computer basics and advanced business technology, math, accounting, and other courses to various audiences; assisted 100+ women in receiving course certificates
