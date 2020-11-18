@@ -22,7 +22,7 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 
 **Professional Experience**
 --------------------
-**Engagement Manager**| LAUNCH CONSULTING GROUP	Bellevue, WA: 2020 - Present
+**Engagement Manager**| LAUNCH CONSULTING GROUP	| Bellevue, WA: 2020 - Present
 -	Own delivery success for an $8 million BoB, managing 80+ employees within Microsoft FD&E, successfully delivering work-group effectiveness and positive and inclusive cultures
 -	Drive process and technical solutions within a given service area; Identify, document and implement best practices and associated business processes
 -	Coordinate with operations and management to deliver accurate and timely resource identification, allocation, on-boarding, utilization and forecasting
