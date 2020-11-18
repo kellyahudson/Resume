@@ -27,7 +27,7 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 -	Drive process and technical solutions within a given service area; Identify, document and implement best practices and associated business processes
 -	Coordinate with operations and management to deliver accurate and timely resource identification, allocation, on-boarding, utilization and forecasting
 -	Continuously update operational/process documentation throughout the life cycle of each assigned project
--	Design end-to-end change management plans for digital transformation projects and initiatives; drive adoption and implementation Assesses and manages affected stakeholder groups using Prosci
+-	Design end-to-end change management plans for digital transformation projects and initiatives; drive adoption and implementation by assessing and managing affected stakeholder groups using Prosci
 -	Provide growth-focused coaching and mentoring to engagement team members
 -	Manage Service Level Agreements through Azure DevOps & ServiceNow dashboards
 
@@ -39,7 +39,7 @@ Experienced Program Manager able to lead the vision, deployment, and service of 
 -	Performed a wide range of administrative duties including class and lab preparation, schedule administration, and participant record maintenance (evaluations and attendance)
 -	Analyzed students’ needs based on testing and monitor progress; ensured effective strategies are used to help students stay positive around learning and to foster student growth
 
-**Business Continuity & Business Development Specialist** | INDEPENDENT CONSULTANT | Bellevue, WA: 2012 - 2013
+**Business Continuity & Business Development Director** | INDEPENDENT CONSULTANT | Bellevue, WA: 2012 - 2013
 -	Worked on a self-employed basis to drive new business development for Business Continuity and Disaster Recovery (BCDR), and Program Management services—supporting both small firms and enterprise companies.  Client list included Microsoft, WithinCompliance, and several smaller/individual companies
 -	Grew business within assigned client list by 50% within first 6 months and expanded into new Industry verticals outside of the technology sector including: health, employment/hiring services, and benefit companies
 -	Recruited, interviewed, and selected employees to fill vacant positions and planned/conducted new employee orientations to explain company guidelines and assist with rapid ramp-up 
